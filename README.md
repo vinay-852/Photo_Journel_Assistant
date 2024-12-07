@@ -10,7 +10,6 @@ pinned: false
 license: mit
 short_description: Photo Journel Assistant
 ---
-
 # Photo Journal Assistant
 
 The **Photo Journal Assistant** is a Streamlit-based app that helps you transform your daily experiences into personalized journal entries using photos. Upload your images, and the app will generate captions, extract metadata, and craft a cohesive and reflective journal entry. 
@@ -36,6 +35,9 @@ The **Photo Journal Assistant** is a Streamlit-based app that helps you transfor
 ### 4. **Downloadable Output**
    - Outputs the journal entry in plain text format.
    - Users can download and save their generated journals.
+
+### 5. **Live Preview**
+   - Try the app live: [Photo Journal Assistant (Live)](https://vinay-pepakayala-photo-journel-assistant.hf.space)
 
 ---
 
