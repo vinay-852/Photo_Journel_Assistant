@@ -37,7 +37,7 @@ The **Photo Journal Assistant** is a Streamlit-based app that helps you transfor
    - Users can download and save their generated journals.
 
 ### 5. **Live Preview**
-   - Try the app live: [Photo Journal Assistant (Live)](https://vinay-pepakayala-photo-journel-assistant.hf.space)
+   - Try the app live: [Photo Journal Assistant (Live)](https://vinay-pepakayala-ai-photo-journel-assistant.hf.space)
 
 ---
 
